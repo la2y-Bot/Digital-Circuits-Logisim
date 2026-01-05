@@ -4,11 +4,11 @@ A collection of digital circuits built using Logisim for learning and demonstrat
 
 A collection of digital circuits built using **Logisim** as part of my learning journey in digital logic design.  
 This repository includes basic gates, combinational and sequential circuits, and small projects like adders, counters, and a simple CPU.  
-It serves both as a **study resource** and a **portfolio showcase**.
 
 ---
 
 ## 📂 Repository Structure
+```
 Digital-Circuits-Logisim/
 │
 ├── README.md
@@ -24,7 +24,7 @@ Digital-Circuits-Logisim/
     ├── InstallationGuide.md
     ├── CircuitExplanations.md
     └── References.md
-
+```
 ---
 
 ## 🚀 Getting Started
@@ -41,13 +41,13 @@ Digital-Circuits-Logisim/
 • 	Navigate to folders and open  files in Logisim.
 • 	Each circuit is documented with explanations in Markdown files
 
-📖 Contents
+##📖 Contents
 - Basics: AND, OR, NOT, XOR, NAND, NOR gates with truth tables.
 - Combinational Circuits: Half Adder, Full Adder, Multiplexer, Decoder.
 - Sequential Circuits: SR Latch, D Flip-Flop, JK Flip-Flop, Counters.
 - Projects: ALU, Simple CPU, Traffic Light Controller.
 
-🎯 Goals
+##🎯 Goals
 - Build a structured library of digital circuits for learning and practice.
 - Document each circuit with explanations and screenshots.
 - Extend the repo with Verilog/SystemVerilog implementations for FPGA prototyping.
